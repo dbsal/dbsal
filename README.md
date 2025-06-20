@@ -14,7 +14,7 @@
 
 
 <h3 align="center">Tool </h3>
-<b>프로젝트의 관리는 jira, github, notion으로 하고 있습니다</b>
+<b align="center">프로젝트의 관리는 jira, github, notion으로 하고 있습니다</b>
   <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
 <p align="center"> 
 </p>
