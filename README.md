@@ -10,10 +10,11 @@
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
   </center>
 </p>
-    <b>프로젝트의 관리는 jira, github, notion으로 하고 있습니다</b>
-  <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
+    
 
 
 <h3 align="center">Tool </h3>
+<b>프로젝트의 관리는 jira, github, notion으로 하고 있습니다</b>
+  <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
 <p align="center"> 
 </p>
