@@ -2,7 +2,6 @@
   안녕하세요! 
 <p align="center">
   <b>java, javascript, react, python 언어를 공부 중인 개발 꿈나무입니다 !!</b>
-## Platforms & Languages
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
