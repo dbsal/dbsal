@@ -1,5 +1,5 @@
 <h3 align="center">
-  안녕하세요!
+  안녕하세요
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" alt="Astonished Face" width="25" height="25" style="vertical-align: middle; margin-left: 5px;" />
 </h3>
 
