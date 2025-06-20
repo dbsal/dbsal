@@ -1,17 +1,29 @@
 <h3 align="center">
-  안녕하세요! 
-<p align="center">
+  안녕하세요!
+</h3>
+
+<p align="center" style="margin-top: 20px;">
   <b>java, javascript, react, python 언어를 공부 중인 개발 꿈나무입니다 !!</b>
+</p>
+
+<p align="center" style="margin-top: 10px;">
   <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
 </p>
-    
 
+<br><br>
 
-<h3 align="center">Tool </h3>
-<b>프로젝트의 관리는 jira, github, notion으로 하고 있습니다</b>
+<h3 align="center">🛠️ Tool</h3>
+
+<p align="center">
+  <b>프로젝트의 관리는 jira, github, notion으로 하고 있습니다</b>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
-<p align="center"> 
+  <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
+
 </p>
