@@ -36,6 +36,8 @@
 </h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
   <b>코딩 테스트 합격</b><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark.png" alt="Check Mark" width="25" height="25" style="vertical-align: middle; margin-right: 5px;" />
   <b>더 나은 개발자 되기</b>
 </p>
