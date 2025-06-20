@@ -1,5 +1,5 @@
 <h3 align="center">
-  안녕하세요
+  안녕하세요!
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" alt="Astonished Face" width="25" height="25" style="vertical-align: middle; margin-left: 5px;" />
 </h3>
 
@@ -26,4 +26,16 @@
   <img src="https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
+</p>
+
+<br><br>
+
+<h3 align="center">
+  목표
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Exclamation%20Mark.png" alt="Red Exclamation Mark" width="25" height="25" style="vertical-align: middle; margin-left: 5px;" />
+</h3>
+
+<p align="center">
+  <b>코딩 테스트 합격</b><br>
+  <b>더 나은 개발자 되기</b>
 </p>
